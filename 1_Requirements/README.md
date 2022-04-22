@@ -1,10 +1,10 @@
-# REQUIREMENTS
+# Requirements
 
-# INTRODUCTION
+# Introduction
    
    We are going to interface a 4x2 (8 key) touch keypad with ATMEGA328 microcontroller. We all know keypad is one of the most important input devices used in electronics engineering. This module does not have actual keys, but have specially designed capacitive metal pads, and these pads are very sensitive by this method, this will provide easy solution.
 
-# DEFINING SYSTEM
+# Defining system
    when a person gets in contact with one of the pads, there will a capacitive change in the corresponding loop, and this change will be sensed by the control electronic in the module. As a response to the touch the corresponding pad output pin goes high.
    
 # 4W'S and 1H
@@ -39,7 +39,6 @@ This project is implemented to who are all used touch keypad interfacing.
 
 *'T' - a lot more pins and more inputs
 
-# REQUIREMENTS
 
 # high level requirements
 
