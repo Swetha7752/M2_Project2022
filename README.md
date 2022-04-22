@@ -1,5 +1,4 @@
 # M2_Touch Keypad Interfacing
+Multifiles functions using c programming
 
-MULTIFILES FUNTIONS USING C PROGRAMMING
-
-EMBEDDED USING SIMULIDE MODULE
+Embedded using simuide module
