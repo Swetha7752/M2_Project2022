@@ -7,7 +7,7 @@
 # Defining system
    when a person gets in contact with one of the pads, there will a capacitive change in the corresponding loop, and this change will be sensed by the control electronic in the module. As a response to the touch the corresponding pad output pin goes high.
    
-# 4W'S and 1H
+# 4w's and 1h
 
 WHO
 
@@ -29,7 +29,7 @@ HOW
 
 This project is implemented to who are all used touch keypad interfacing.
 
-# SWOT Analysis
+# Swot Analysis
 
 *'s' - will opearate the cadgets very easilly
 
